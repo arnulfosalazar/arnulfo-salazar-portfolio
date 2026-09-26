@@ -1,0 +1,66 @@
+{
+  "name": "Arnulfo Salazar III",
+  "headline": "Software developer.",
+  "subheadline": "Always building.",
+  "introduction": "Junior CS student @ UTRGV building software in C++, Java, and JS. \nArch Linux user.",
+  "email": "treysalazar2001@gmail.com",
+  "socials": {
+    "linkedin": "https://linkedin.com/in/arnulfosalazariii",
+    "github": "https://github.com/arnulfosalazar",
+    "leetcode": "https://leetcode.com/u/arnulfosalazar/",
+    "discord": "https://discord.gg/pUvM9R452U"
+  },
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "Spotify Nuke",
+      "category": "Web application",
+      "description": "Remove multiple artists and songs from your playlists simultaneously. Multiple parameters can be set to include or exclude playlists when choosing which artist or song to nuke.",
+      "technologies": [
+        "JavaScript",
+        " Node.js",
+        " Express.js",
+        " Axios",
+        " Spotify OAuth 2.0"
+      ],
+      "liveUrl": "",
+      "sourceUrl": "https://github.com/arnulfosalazar/spotifynuke",
+      "mediaUrl": "/goblinworking.gif",
+      "mediaType": "image",
+      "mediaAlt": ""
+    },
+    {
+      "id": "project-2",
+      "title": "Item Server API",
+      "category": "API",
+      "description": "A test project to understand how creating an API to handle user queries on the server side works. Handling requests, sending responses, and validating and parsing JSON bodies.",
+      "technologies": [
+        "JavaScript",
+        " Node.js",
+        " Express.js",
+        " npm"
+      ],
+      "liveUrl": "",
+      "sourceUrl": "https://github.com/arnulfosalazar/item-api",
+      "mediaUrl": "/goblinworking.gif",
+      "mediaType": "image",
+      "mediaAlt": ""
+    },
+    {
+      "id": "project-3",
+      "title": "Project three",
+      "category": "A personal experiment",
+      "description": "Every project starts with a question. Use this space to share an experiment, a new skill, or something you wanted to bring to life.",
+      "technologies": [
+        "Language",
+        "Framework",
+        "Tools"
+      ],
+      "liveUrl": "",
+      "sourceUrl": "",
+      "mediaUrl": "/goblinworking.gif",
+      "mediaType": "image",
+      "mediaAlt": ""
+    }
+  ]
+}
