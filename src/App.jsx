@@ -5,6 +5,7 @@ import portfolio from './data/portfolio.json';
 import Header from './components/Header.jsx';
 import Hero from './components/Hero.jsx';
 import ProjectSection from './components/ProjectSection.jsx';
+import AboutMe from './components/AboutMe.jsx';
 import Footer from './components/Footer.jsx';
 
 function useProjectRevealAnimations() {
@@ -141,6 +142,7 @@ export default function App() {
               />
             ))}
           </section>
+          <AboutMe />
         </main>
 
         <Footer data={data} />

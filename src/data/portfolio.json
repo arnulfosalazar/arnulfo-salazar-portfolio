@@ -2,6 +2,8 @@
   "name": "Arnulfo Salazar III",
   "headline": "Software developer.",
   "subheadline": "Always building.",
+  "portraitUrl": "/portrait.jpg",
+  "portraitAlt": "Portrait of Arnulfo Salazar III",
   "introduction": "Junior CS student @ UTRGV building software in C++, Java, and JS. \nArch Linux user.",
   "email": "treysalazar2001@gmail.com",
   "socials": {
