@@ -1240,3 +1240,45 @@ h1 {
     border-radius: 50%;
   }
 }
+
+@media (max-width: 759px) {
+  .about-section {
+    padding: 70px 24px;
+  }
+
+  .about-heading {
+    max-width: none;
+    padding: 0;
+    margin-bottom: 40px;
+  }
+
+  .about-grid {
+    display: block;
+    max-width: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .about-copy {
+    max-width: none;
+    margin-bottom: 45px;
+  }
+
+  .about-copy p {
+    font-size: 18px;
+    line-height: 1.55;
+    margin-bottom: 22px;
+  }
+
+  .about-details {
+    gap: 22px;
+  }
+
+  .about-detail {
+    padding-top: 16px;
+  }
+
+  .resume-link {
+    margin-top: 8px;
+  }
+}
