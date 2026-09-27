@@ -25,7 +25,7 @@
         " Axios",
         " Spotify OAuth 2.0"
       ],
-      "liveUrl": "",
+      "liveUrl": "https://spotifynuke.vercel.app/",
       "sourceUrl": "https://github.com/arnulfosalazar/spotifynuke",
       "mediaUrl": "/goblinworking.gif",
       "mediaType": "image",
