@@ -15,7 +15,7 @@
   "projects": [
     {
       "id": "project-1",
-      "title": "Spotify Nuke",
+      "title": "MusicNuke",
       "category": "Web application",
       "description": "Remove multiple artists and songs from your playlists simultaneously. Multiple parameters can be set to include or exclude playlists when choosing which artist or song to nuke.",
       "technologies": [
@@ -25,8 +25,8 @@
         " Axios",
         " Spotify OAuth 2.0"
       ],
-      "liveUrl": "https://spotifynuke.vercel.app/",
-      "sourceUrl": "https://github.com/arnulfosalazar/spotifynuke",
+      "liveUrl": "https://musicnuke.vercel.app/",
+      "sourceUrl": "https://github.com/arnulfosalazar/musicnuke",
       "mediaUrl": "/goblinworking.gif",
       "mediaType": "image",
       "mediaAlt": ""
